@@ -12,3 +12,7 @@ I'm planning on eventually creating an online leaderboard so you can easily comp
 Simply pass the save filename as an argument to `leaderboard-reader.py` and it will print a readable leaderboard.  
 E.g. `leaderboard-reader.py example_save.mcs`  
 It searches for a binary pattern, so it will work with any memory card format as long as the save isn't compressed or altered from its original state. Currently it will only return the first CTR save of a memory card file.
+  
+## To-do
+- Bring code up to current standard
+- Different output formats
